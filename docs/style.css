@@ -28,7 +28,7 @@ li{
     width:30%;
     height:auto;
     color: #33336b;
-    padding-top:8rem;
+    padding-top:1rem;
     text-align:center;
     background-color: rgb(188, 188, 192);
     font-family: 'Overpass Mono', monospace;
@@ -37,6 +37,14 @@ li{
     margin-top: -10rem;
     order:1;
 }
+
+.perfilImage{
+	width: 80%;
+	border: 1px solid rgb(42, 42, 134);
+	border: 5px solid white;
+	border-radius: 50%;
+}
+
 
 .perfil_content{
     padding:0 .5rem;
